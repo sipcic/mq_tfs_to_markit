@@ -2,7 +2,7 @@
 
 [<b>1 MQ Overview</b>](#1-mq-overview)
 
-[<b>2 REST API and MQ</b>](#2-rest_api_mq)
+[<b>2 REST API and MQ</b>](#2-rest-api-mq)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1 Sending a message](#21-sending-a-message)
 
@@ -12,7 +12,7 @@
 
 [<b>4 VPN Connectivity</b>](#4-vpn-connectivity)
 
-[<b>5 Recommendations</b>](#5-vpn-connectivity)
+[<b>5 Recommendations</b>](#5-recommendations)
 
 [<b>6 References</b>](#6-references)
 
