@@ -2,7 +2,7 @@
 
 [<b>1 MQ Overview</b>](#1-mq-overview)
 
-[<b>2 REST API and MQ</b>](#2-rest-api-mq)
+[<b>2 REST API and MQ</b>](#2-rest-and-api-mq)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1 Sending a message](#21-sending-a-message)
 
